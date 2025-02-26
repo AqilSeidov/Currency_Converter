@@ -40,7 +40,7 @@ public class main extends javax.swing.JFrame {
        String partialBase = baseCurrency.substring(0, 3);
        String partialTo = toCurrency.substring(0, 3);
        try {
-            String urlString = "https://v6.exchangerate-api.com/v6/" + "9541b0f931c3e6876ddd466c" + "/latest/" + partialBase + "?symbols=" + partialTo;
+            String urlString = "https://v6.exchangerate-api.com/v6/" + "" + "/latest/" + partialBase + "?symbols=" + partialTo;
             URL url = new URL(urlString);
             HttpURLConnection conn = (HttpURLConnection) url.openConnection();
             conn.setRequestMethod("GET");
