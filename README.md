@@ -1,7 +1,7 @@
 !!! Advised to Read !!!
 
 
-I made a simple Currency Converter project with Java and Swing(for GUI). I added the list of libraries(JAR files) I used in project. If you face with any problem related to JAR files you can download them... 
+I made a simple Currency Converter project with Java and Swing(for GUI). I added the list of libraries(JAR files) I used in project. If you face with any problem related to JAR files you can download and integrate to your lib... 
 
 ------------------------------------------------------------------------------------------
 Lib(JAR) list:
